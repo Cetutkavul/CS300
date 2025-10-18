@@ -19,7 +19,8 @@ It demonstrates file handling, sorting, and efficient search operations in C++ w
 ---
 
 ## Example File Format
-The input CSV file must include one course per line in the following format:
+The input CSV file must include one course per line in the following format: 
+CS 300 ABCU_Advising_Program_Input.csv
 
 
 ---
@@ -56,16 +57,16 @@ Example console session:
 
 Welcome to the course planner.
 
-Load Data Structure.
+1. Load Data Structure.
 
-Print Course List.
+2. Print Course List.
 
-Print Course.
+3. Print Course.
 
-Exit
+9. Exit
 
 What would you like to do? 1
-Enter the file name (press Enter to use default file):
+Enter the file name (press Enter to use default file - CS 300 ABCU_Advising_Program_Input.csv):
 Using default file: CS 300 ABCU_Advising_Program_Input.csv
 
 
